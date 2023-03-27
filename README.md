@@ -48,7 +48,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Math Magicians
 
-> This is Leaderboard website Users can add scores and names permanently in by using this Leaderboard webiste. I used HTML, CSS, JS and API in this project.
+> This is _**Math Magicians (SPA)**_ Web App this Web App contains one _Calculator_ and one Math-related _Quotes_ generator. I used React, CSS, JS,  and API in this project.
 
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
@@ -56,7 +56,7 @@ After you're finished please remove all the comments and instructions!
 - JS
 ### Tech Stack <a name="tech-stack"></a>
 
-> I Used Gitflow, modules, and advanced JS (ES6) in the Leaderboard Project.
+> I Used Gitflow, modules, and advanced React & JS (ES6) in the Math Magicians Web App.
 
 <details>
   <summary>HTML</summary>
@@ -69,11 +69,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
+### Key Features <a name="key-features"></a>q
 
-- **[Html structure with Button, Inputs, etc]**
+- **[React Web App (SPA)]**
 - **[Styling css with colors, borders, paddings, margins & sizes, etc]**
-_ **[javascript functions, modules, ES6 syntax, variables, etc]**
+_ **[React & javascript functions, modules, ES6 syntax, variables, etc]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,7 +118,7 @@ Example commands:
 
 ```sh
   cd my-folder
-https://github.com/Atril33/Todo_List_ES6.git
+https://github.com/Atril33/Math-Magicians.git
 ```
 --->
 
@@ -132,7 +132,7 @@ Example command:
 
 ```sh
   cd my-project
-  _git clone https://github.com/Atril33/Leaderboard.git_
+  _https://github.com/Atril33/Math-Magicians.git_
 ```
 --->
 
