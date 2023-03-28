@@ -1,70 +1,195 @@
-# Getting Started with Create React App
+<div align="center"><h1>Math Magicians</h1></div>
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Modify this file to match your project and remove sections that don't apply.
 
-## Available Scripts
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+- Authors
+- Future Features- 
+ - Mobile version design
+- Desktop version design
+- Dynamic HTML for featured-speakers
 
-In the project directory, you can run:
+OPTIONAL SECTIONS:
+- FAQ
 
-### `npm start`
+After you're finished please remove all the comments and instructions!
+-->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <br/>
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<!-- TABLE OF CONTENTS -->
 
-### `npm test`
+# 📗 Table of Contents
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [🔭 Future Features](#future-features)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [📝 License](#license)
 
-### `npm run build`
+<!-- PROJECT DESCRIPTION -->
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 📖 Math Magicians
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> This is _**Math Magicians (SPA)**_ Web App this Web App contains one _Calculator_ and one Math-related _Quotes_ generator. I used React, CSS, JS,  and API in this project.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠 Built With <a name="built-with"></a>
+- HTML
+- CSS
+- JS
+### Tech Stack <a name="tech-stack"></a>
 
-### `npm run eject`
+> I Used Gitflow, modules, and advanced React & JS (ES6) in the Math Magicians Web App.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<details>
+  <summary>HTML</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/html/">HTML</a></li>
+     <li><a href="https://www.w3schools.com/css/">CSS</a></li>
+     <li><a href="https://www.w3schools.com/css/">Javascript</a></li>
+  </ul>
+</details>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<!-- Features -->
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Key Features <a name="key-features"></a>q
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **[React Web App (SPA)]**
+- **[Styling css with colors, borders, paddings, margins & sizes, etc]**
+_ **[React & javascript functions, modules, ES6 syntax, variables, etc]**
 
-## Learn More
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🔭 Future Features <a name="future-features"></a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+> I will Add style in this project with functions.
+<!-- GETTING STARTED -->
+<!-- AUTHORS -->
 
-### Code Splitting
+## 👥 Authors <a name="authors">Syed</a>
+# <a name="authors">Syed Atril</a>
+👤 **Syed Atril**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- GitHub: [@githubhandle](https://github.com/Atril33)
+- Twitter: [@twitterhandle](https://twitter.com/AtrilSyed)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-atril-831696248/)
+- Facebook [Facebook](https://web.facebook.com/profile.php?id=100073724910623)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 💻 Getting Started <a name="getting-started"></a>
 
-### Making a Progressive Web App
+### Prerequisites
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+In order to run this project you need: to Clone the repo.
+<!--
+Example command:
+_git clone https://github.com/Atril33/Leaderboard.git
+```sh
+ gem install rails
+```
+ -->
 
-### Advanced Configuration
+### Setup
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Clone this repository to your desired folder: <br>
+`Opend CMD, Terminal or GitBash in your pc and type this` <br>
+`git clone command _https://github.com/Atril33/Leaderboard.gitt`
+ 
 
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+https://github.com/Atril33/Math-Magicians.git
+```
+--->
+
+### Install
+
+Install this project with: <br>
+_You need to run this command `npm i`_ <br>
+_Then run this comman `npm run start`_
+<!--
+Example command:
+
+```sh
+  cd my-project
+  _https://github.com/Atril33/Math-Magicians.git_
+```
+--->
+
+### Usage
+_Run the project on Visual Studio Code Live Server._
+<!--
+Example command:
+
+```sh
+  rails server
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+You can deploy this project using:
+Not Yet
+<!--
+Example:
 
-### `npm run build` fails to minify
+```sh
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```
+ -->
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## ⭐️ Show your support <a name="support"></a>
+
+> If you like this project feel comfortable to endorse the authors. Give a star in github repository.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> We would like to thank my coding partners, mentors and Microverse for their support in building the project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [[MIT](https://choosealicense.com/licenses/mit/)](./LICENSE) licensed.
+
+> This project has [MIT license](https://choosealicense.com/licenses/mit/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
