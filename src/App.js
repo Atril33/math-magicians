@@ -1,8 +1,11 @@
 import './App.css';
+import MyCalculator from './components/calculator/calculator';
 
 function App() {
   return (
-    <h1>This is my First React App</h1>
+    <>
+      <MyCalculator />
+    </>
   );
 }
 
