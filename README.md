@@ -69,7 +69,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>q
+### Key Features <a name="key-features"></a>
 
 - **[React Web App (SPA)]**
 - **[Styling css with colors, borders, paddings, margins & sizes, etc]**
