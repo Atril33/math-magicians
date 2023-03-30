@@ -66,6 +66,20 @@ After you're finished please remove all the comments and instructions!
      <li><a href="https://www.w3schools.com/css/">Javascript</a></li>
   </ul>
 </details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>q
+
+- **[React Web App (SPA)]**
+- **[Styling css with colors, borders, paddings, margins & sizes, etc]**
+_ **[React & javascript functions, modules, ES6 syntax, variables, etc]**
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- Comming Soon
+
+
 <!-- GETTING STARTED -->
 <!-- AUTHORS -->
 
@@ -139,24 +153,21 @@ Example:
 
 ```
  -->
-### Key Features <a name="key-features"></a>q
 
-- **[React Web App (SPA)]**
-- **[Styling css with colors, borders, paddings, margins & sizes, etc]**
-_ **[React & javascript functions, modules, ES6 syntax, variables, etc]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🔭 Future Features <a name="future-features"></a>
-
-## 👥 Authors <a name="authors">Syed</a>
 # <a name="authors">Syed Atril</a>
+
 👤 **Syed Atril**
+
 - GitHub: [@githubhandle](https://github.com/Atril33)
 - Twitter: [@twitterhandle](https://twitter.com/AtrilSyed)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-atril-831696248/)
 - Facebook [Facebook](https://web.facebook.com/profile.php?id=100073724910623)
 
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [x] **[I will Add API for the quotes generator function]**
+- [x] **[I will Deploy this page after completing all things]**
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
