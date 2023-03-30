@@ -13,15 +13,15 @@ body {
 }
 
 .container {
-  width: 300px;
+  width: 280px;
   background: #c1c1c1;
   height: auto;
   display: grid;
   gap: 1px;
   grid-template-columns: auto auto auto auto;
-  box-shadow: -1px 7px 27px -4px rgba(0, 0, 0, 0.57);
-  -webkit-box-shadow: -1px 7px 27px -4px rgba(0, 0, 0, 0.57);
-  -moz-box-shadow: -1px 7px 27px -4px rgba(0, 0, 0, 0.57);
+  -webkit-box-shadow: 10px 10px 12px -10px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 12px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 12px -10px rgba(0, 0, 0, 0.75);
 }
 
 #calculator-input {
@@ -31,7 +31,7 @@ body {
   border: none;
   outline: none;
   text-align: right;
-  padding: 50px 0 0 50px;
+  padding: 70px 0 0 50px;
 }
 
 button {
@@ -42,7 +42,7 @@ button {
 }
 
 button:hover {
-  border: 0.2px solid #f9f9f9;
+  border: 0.001px solid #f9f9f9;
 }
 
 .Zero {
