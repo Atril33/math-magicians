@@ -66,76 +66,61 @@ After you're finished please remove all the comments and instructions!
      <li><a href="https://www.w3schools.com/css/">Javascript</a></li>
   </ul>
 </details>
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>q
-
-- **[React Web App (SPA)]**
-- **[Styling css with colors, borders, paddings, margins & sizes, etc]**
-_ **[React & javascript functions, modules, ES6 syntax, variables, etc]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> I will Add style in this project with functions.
 <!-- GETTING STARTED -->
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors">Syed</a>
-# <a name="authors">Syed Atril</a>
-👤 **Syed Atril**
-
-- GitHub: [@githubhandle](https://github.com/Atril33)
-- Twitter: [@twitterhandle](https://twitter.com/AtrilSyed)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-atril-831696248/)
-- Facebook [Facebook](https://web.facebook.com/profile.php?id=100073724910623)
-
-
 ## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need: to Clone the repo.
-<!--
-Example command:
-_git clone https://github.com/Atril33/Leaderboard.git
-```sh
- gem install rails
-```
- -->
+In order to run this project you need the following tools:
+- Node.js in your computer
+- IDE(e.g.: Vscode,...)
+- Terminal
 
 ### Setup
 
-Clone this repository to your desired folder: <br>
-`Opend CMD, Terminal or GitBash in your pc and type this` <br>
-`git clone command _https://github.com/Atril33/Leaderboard.gitt`
- 
-
-<!--
-Example commands:
+Clone this repository to your desired folder:
 
 ```sh
-  cd my-folder
-https://github.com/Atril33/Math-Magicians.git
+  cd your-prefered-folder
+  
+  git clone https://github.com/Atril33/math-magicians.git
 ```
---->
 
 ### Install
 
-Install this project with: <br>
-_You need to run this command `npm i`_ <br>
-_Then run this comman `npm run start`_
-<!--
-Example command:
+- Install this project with:
 
 ```sh
-  cd my-project
-  _https://github.com/Atril33/Math-Magicians.git_
-```
---->
+  cd Math-Magicians
 
+  npm install or npm i
+```
+
+- Run build for prodction:
+```
+  npm run build
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  npm start
+
+```
+
+### Run tests
+
+To run tests, run the following command:
+
+```sh
+  npm run test
+```
 ### Usage
 _Run the project on Visual Studio Code Live Server._
 <!--
@@ -154,13 +139,23 @@ Example:
 
 ```
  -->
+### Key Features <a name="key-features"></a>q
 
+- **[React Web App (SPA)]**
+- **[Styling css with colors, borders, paddings, margins & sizes, etc]**
+_ **[React & javascript functions, modules, ES6 syntax, variables, etc]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
+## 🔭 Future Features <a name="future-features"></a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 👥 Authors <a name="authors">Syed</a>
+# <a name="authors">Syed Atril</a>
+👤 **Syed Atril**
+- GitHub: [@githubhandle](https://github.com/Atril33)
+- Twitter: [@twitterhandle](https://twitter.com/AtrilSyed)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-atril-831696248/)
+- Facebook [Facebook](https://web.facebook.com/profile.php?id=100073724910623)
 
 <!-- CONTRIBUTING -->
 
