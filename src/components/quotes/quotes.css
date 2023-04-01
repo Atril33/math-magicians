@@ -1,0 +1,23 @@
+.myQuote {
+  width: 60%;
+  margin: 20px;
+}
+
+.my-quote,
+.my-author {
+  text-align: left;
+  font-style: italic;
+  color: #575656;
+}
+
+.my-author {
+  font-weight: 700;
+}
+
+.my-image {
+  width: 25px;
+}
+
+.my-error {
+  color: red;
+}
