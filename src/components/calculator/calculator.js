@@ -13,7 +13,6 @@ const MyCalculator = () => {
     const newData = calculate(calculatorData, buttonName);
     setCalculatorData(newData);
   };
-
   const inputValue = calculatorData.next || calculatorData.total || '0';
   return (
     <>
