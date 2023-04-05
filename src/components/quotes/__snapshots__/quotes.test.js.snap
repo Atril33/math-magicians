@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot testing of Quotes.js 1`] = `
+<center>
+  <div
+    className="myQuote"
+  >
+    <p
+      className="my-quote"
+    />
+    <p
+      className="my-author"
+    />
+    <img
+      alt="Loading..."
+      className="my-image"
+      src="loading.gif"
+    />
+  </div>
+</center>
+`;
