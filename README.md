@@ -77,7 +77,7 @@ _ **[React & javascript functions, modules, ES6 syntax, variables, etc]**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Comming Soon
+- <a href="https://math-magicians-beta.vercel.app/calculator">Live Link</a>
 
 
 <!-- GETTING STARTED -->
