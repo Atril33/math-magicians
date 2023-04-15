@@ -7,11 +7,16 @@ import Home from '../home/home';
 const Header = () => (
   <>
     <nav>
-      <h1>Math magicians</h1>
+      <h1>
+        <Link to="/" style={{ color: '#fff' }}>
+          Math
+          <span className="h1-span">magicians</span>
+        </Link>
+      </h1>
       <ul className="link-holder">
-        <li className="links"><Link to="/">Home</Link></li>
-        <li className="links"><Link to="/calculator">Calculator</Link></li>
-        <li className="links"><Link to="/quote">Quote</Link></li>
+        <li className="links"><Link to="/" style={{ color: '#fff' }}>Home</Link></li>
+        <li className="links"><Link to="/calculator" style={{ color: '#fff' }}>Calculator</Link></li>
+        <li className="links"><Link to="/quote" style={{ color: '#fff' }}>Quote</Link></li>
       </ul>
     </nav>
     <Routes>

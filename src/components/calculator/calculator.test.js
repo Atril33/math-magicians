@@ -4,18 +4,17 @@ import renderer from 'react-test-renderer';
 import MyCalculator from './calculator';
 
 test('Snapshot test for Calculator.js', () => {
-    const comp = renderer.create(
-        <MyCalculator />
-    );
-    let tree = comp.toJSON();
-    expect(tree).toMatchSnapshot();
-})
-
+  const comp = renderer.create(
+    <MyCalculator />,
+  );
+  const tree = comp.toJSON();
+  expect(tree).toMatchSnapshot();
+});
 
 describe('MyCalculator', () => {
   it('Should be press correct Button', () => {
     const { getByText } = render(<MyCalculator />);
-    
+
     expect(getByText('AC')).toBeInTheDocument();
     expect(getByText('+/-')).toBeInTheDocument();
     expect(getByText('%')).toBeInTheDocument();
@@ -38,12 +37,12 @@ describe('MyCalculator', () => {
   });
 
   test('Should subtract two numbers correctly by pressing - ', () => {
-    const { getByText, getByTestId } = render(<MyCalculator />);
+    const { getByText } = render(<MyCalculator />);
     fireEvent.click(getByText('5'));
     fireEvent.click(getByText('-'));
     fireEvent.click(getByText('2'));
     fireEvent.click(getByText('='));
-    let result = '3'
+    const result = '3';
     expect(result).toEqual('3');
   });
 });

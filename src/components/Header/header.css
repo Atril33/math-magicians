@@ -10,10 +10,21 @@ nav {
 
 h1 {
   margin-left: 30px;
-  font-family: 'Alkatra', cursive;
-  color: #fff;
-  text-transform: capitalize;
+  color: #000;
+  text-transform: uppercase;
   user-select: none;
+  line-height: 20px;
+  font-size: 30px;
+  margin-top: 7px;
+}
+
+.h1-span {
+  display: block;
+  font-size: 11px;
+  letter-spacing: 2.5px;
+  margin-left: 1px;
+  font-style: normal;
+  color: #fff;
 }
 
 .link-holder,
@@ -24,4 +35,5 @@ h1 {
 .links,
 link {
   margin-right: 30px;
+  font-weight: 700;
 }
