@@ -1,4 +1,6 @@
-<div align="center"><h1>Math Magicians</h1></div>
+<div align="center"><h1>Math Magicians</h1>
+<img src="https://github.com/Atril33/math-magicians/blob/development/src/Image_2.png">
+</div>
 <!--
 HOW TO USE :
 This is an example of how you may give instructions on setting up your project locally.
