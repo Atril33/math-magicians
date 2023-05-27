@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <div align="center">
-  <img src="https://github.com/Atril33/Leaderboard/blob/develop/Live_preview.png" width="650px" />
+  <img src="https://github.com/Atril33/math-magicians/blob/development/Live_preview.png" width="650px" />
   </div>
   
 <!-- TABLE OF CONTENTS -->
@@ -60,7 +60,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 ``` bash
-  https://github.com/Atril33/Leaderboard.git
+  https://github.com/Atril33/math-magicians.git
 ```
 
 ### Install
