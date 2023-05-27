@@ -43,7 +43,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://math-magicians-71f359xxb-atril33.vercel.app/calculator)
+- [Live Demo Link](https://math-magicians-1hc0hih6a-atril33.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
