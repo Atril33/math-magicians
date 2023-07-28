@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <div align="center">
-  <img src="https://github.com/Atril33/math-magicians/blob/development/Live_preview.png" width="650px" height="350px" />
+  <img src="https://github.com/Atril33/math-magicians/blob/development/Live_preview.png" width="auto" height="auto" />
   </div>
   
 <!-- TABLE OF CONTENTS -->
